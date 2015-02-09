@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "GameXna", "AsyncGame\GameXna\GameXna.fsproj", "{6E1AE8C8-0AAB-438A-BF06-AB03369D4634}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "XnaGameContent", "AsyncGame\XnaGameContent\XnaGameContent.contentproj", "{5C3F5590-A8E7-486C-B8C7-EE424D7F5AD6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6E1AE8C8-0AAB-438A-BF06-AB03369D4634}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{6E1AE8C8-0AAB-438A-BF06-AB03369D4634}.Debug|x86.ActiveCfg = Debug|x86
+		{6E1AE8C8-0AAB-438A-BF06-AB03369D4634}.Debug|x86.Build.0 = Debug|x86
+		{6E1AE8C8-0AAB-438A-BF06-AB03369D4634}.Release|Any CPU.ActiveCfg = Release|x86
+		{6E1AE8C8-0AAB-438A-BF06-AB03369D4634}.Release|x86.ActiveCfg = Release|x86
+		{6E1AE8C8-0AAB-438A-BF06-AB03369D4634}.Release|x86.Build.0 = Release|x86
+		{5C3F5590-A8E7-486C-B8C7-EE424D7F5AD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C3F5590-A8E7-486C-B8C7-EE424D7F5AD6}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{5C3F5590-A8E7-486C-B8C7-EE424D7F5AD6}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C3F5590-A8E7-486C-B8C7-EE424D7F5AD6}.Release|x86.ActiveCfg = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
